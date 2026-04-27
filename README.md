@@ -1,3 +1,5 @@
+### Architecture Overview
+```mermaid
 graph LR
     subgraph Client_Layer [Mobile Client]
         A[Flutter App]
